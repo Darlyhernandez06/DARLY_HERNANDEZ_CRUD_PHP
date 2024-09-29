@@ -1,0 +1,32 @@
+.formulario {
+    width: 500px; 
+    padding: 20px; 
+    border: 1px solid #ccc; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    background-color: pink;
+    margin: 0 auto;
+}
+
+.formulario label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.formulario input {
+    width: 90%; 
+    padding: 10px; 
+    margin-bottom: 20px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+}
+
+.boton {
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+
+
+  
+  
